@@ -1,0 +1,100 @@
+h1 {
+    color: yellow;
+}
+
+body {
+        background-image: url(Logo.jpeg);
+}
+
+
+
+h1 {
+    background-color: blue;
+}
+
+p {
+    color: yellow;
+}
+
+p {
+    background-color: green;
+}
+
+b {
+    color: black;
+}
+
+i {
+    color: yellow;
+}
+
+i {
+    background-color: green;
+}
+
+
+h2 {
+    color: yellow;
+}
+
+h2 {
+   background-color: green;
+}
+
+b {
+   background-color: green;
+}
+
+b {
+   color: yellow;
+}
+ 
+
+
+h2 {
+margin-left:2px;
+margin-top: 2px;
+}
+
+h2 {
+background: rgba(0,0,0,0.3);
+font-family: "Helvetica Neue", Arial, sans-serif;
+font-weight: 200;
+line-height: 1.5;
+}
+
+h1 {
+margin-left: 2px;
+margin-top: 2px;
+}
+
+h1 {
+background: rgba(0,0,0,0.3);
+font-family: "Helvetica Neue", Arial, sans-serif;
+font-weight: 200;
+line-height: 1.5;
+}
+
+p {
+margin-left: 2px;
+margin-top: 2px;
+}
+
+p {
+background: rgba(0,0,0,0.3);
+font-family: "Helvetica Neue", Arial, sans-serif;
+font-weight: 200;
+line-height: 1.5;
+}
+
+li {
+margin-left: 2px;
+margin-top: 2px;
+}
+
+li {
+background: rgba(0,0,0,0.3);
+font-family: "Helvetica Neue", Arial, sans-serif;
+font-weight: 200;
+line-height: 1.5;
+}
